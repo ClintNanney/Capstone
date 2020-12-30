@@ -1,35 +1,35 @@
-Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Age,Pos,Salary
-Jahleel Addae,,,,,,,,Q,,,,,,30,S,864706
-Keenan Allen,,,,,,,,Q,,,,,,28,WR,5500000
-Kalen Ballage,,,,,,,,,,,Q,,,25,RB,
-Asmar Bilal,,,O,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,
-Joey Bosa,,,,,Q,,,D,O,,,,,25,DE,1000000
-Bryan Bulaga,Q,,Q,O,O,Q,Q,,Q,,,,,31,T,1500000
-Austin Ekeler,,,,,IR,IR,IR,IR,IR,IR,IR,,,25,RB,1500000
-Brandon Facyson,,,,,,,,Q,C19,C19,C19,,,26,CB,750000
-Virgil Green,Q,,,,,,IR,IR,IR,IR,IR,IR,IR,,,
-Ryan Groy,,,,,,,C19,C19,C19,C19,C19,C19,C19,,,
-Chris Harris Jr.,,,,IR,IR,IR,IR,IR,IR,IR,IR,,,31,CB,2000000
-Casey Hayward,,,,,,,,Q,,,O,,,31,DB,9750000
-K.J. Hill,,,,,,Q,,,,,,,,23,WR,610000
-Melvin Ingram,,,D,IR,IR,IR,,,,,O,IR,IR,,,
-Justin Jackson,,D,D,,,Q,,,IR,IR,IR,IR,IR,24,RB,750000
-Derwin James,,,,,,,,,,,IR,,IR,,,
-Rayshawn Jenkins,,,Q,Q,,,,,,,,,,26,FS,2133000
-Justin Jones,,,O,IR,IR,IR,,,,,,,,24,DT,679412
-Desmond King,,,,,,,O,,,,,,,,,
-Jessie Lemonier,,,,,Q,,,,,,,,,,,
-Cole Mazza,,,,,,,,,,Q,,,,25,LS,675000
-Storm Norton,,,,Q,,D,Q,,,,,,,26,OT,675000
-Uchenna Nwosu,,,,,,,,,,,O,,,24,OLB,1003598
-Trey Pipkins,,,,,,,C19,,,,,,C19,,,
-Troymaine Pope,,,,,,,,D,Q,,,,,27,RB,
-Mike Pouncey,O,IR,IR,IR,IR,,,,,,IR,,,,,
-Isaac Rochell,,,,,,,,Q,,,,,,25,DE,825000
-Tyree St. Louis,,,,Q,,,,,,,,,,23,T,610000
-Tyrod Taylor,,,O,O,O,Q,Q,,,Q,,,,31,QB,5000000
-Drue Tranquill,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Trai Turner,Q,,Q,O,O,O,O,Q,Q,,,,,27,OG,8500000
-Nick Vigil,,,D,Q,,,,,,,,,,27,ILB,1900000
-Kyzir White,,,,,,,,,,C19,C19,C19,C19,24,S,750000
-Mike Williams,Q,,,O,Q,,,,,,,,,26,WR,825000
+Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Age,Pos,Salary,Team,Year
+Jahleel Addae,,,,,,,,Q,,,,,,30,S,864706,Chargers,2020
+Keenan Allen,,,,,,,,Q,,,,,,28,WR,5500000,Chargers,2020
+Kalen Ballage,,,,,,,,,,,Q,,,25,RB,,Chargers,2020
+Asmar Bilal,,,O,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,,Chargers,2020
+Joey Bosa,,,,,Q,,,D,O,,,,,25,DE,1000000,Chargers,2020
+Bryan Bulaga,Q,,Q,O,O,Q,Q,,Q,,,,,31,T,1500000,Chargers,2020
+Austin Ekeler,,,,,IR,IR,IR,IR,IR,IR,IR,,,25,RB,1500000,Chargers,2020
+Brandon Facyson,,,,,,,,Q,C19,C19,C19,,,26,CB,750000,Chargers,2020
+Virgil Green,Q,,,,,,IR,IR,IR,IR,IR,IR,IR,,,,Chargers,2020
+Ryan Groy,,,,,,,C19,C19,C19,C19,C19,C19,C19,,,,Chargers,2020
+Chris Harris Jr.,,,,IR,IR,IR,IR,IR,IR,IR,IR,,,31,CB,2000000,Chargers,2020
+Casey Hayward,,,,,,,,Q,,,O,,,31,DB,9750000,Chargers,2020
+K.J. Hill,,,,,,Q,,,,,,,,23,WR,610000,Chargers,2020
+Melvin Ingram,,,D,IR,IR,IR,,,,,O,IR,IR,,,,Chargers,2020
+Justin Jackson,,D,D,,,Q,,,IR,IR,IR,IR,IR,24,RB,750000,Chargers,2020
+Derwin James,,,,,,,,,,,IR,,IR,,,,Chargers,2020
+Rayshawn Jenkins,,,Q,Q,,,,,,,,,,26,FS,2133000,Chargers,2020
+Justin Jones,,,O,IR,IR,IR,,,,,,,,24,DT,679412,Chargers,2020
+Desmond King,,,,,,,O,,,,,,,,,,Chargers,2020
+Jessie Lemonier,,,,,Q,,,,,,,,,,,,Chargers,2020
+Cole Mazza,,,,,,,,,,Q,,,,25,LS,675000,Chargers,2020
+Storm Norton,,,,Q,,D,Q,,,,,,,26,OT,675000,Chargers,2020
+Uchenna Nwosu,,,,,,,,,,,O,,,24,OLB,1003598,Chargers,2020
+Trey Pipkins,,,,,,,C19,,,,,,C19,,,,Chargers,2020
+Troymaine Pope,,,,,,,,D,Q,,,,,27,RB,,Chargers,2020
+Mike Pouncey,O,IR,IR,IR,IR,,,,,,IR,,,,,,Chargers,2020
+Isaac Rochell,,,,,,,,Q,,,,,,25,DE,825000,Chargers,2020
+Tyree St. Louis,,,,Q,,,,,,,,,,23,T,610000,Chargers,2020
+Tyrod Taylor,,,O,O,O,Q,Q,,,Q,,,,31,QB,5000000,Chargers,2020
+Drue Tranquill,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Chargers,2020
+Trai Turner,Q,,Q,O,O,O,O,Q,Q,,,,,27,OG,8500000,Chargers,2020
+Nick Vigil,,,D,Q,,,,,,,,,,27,ILB,1900000,Chargers,2020
+Kyzir White,,,,,,,,,,C19,C19,C19,C19,24,S,750000,Chargers,2020
+Mike Williams,Q,,,O,Q,,,,,,,,,26,WR,825000,Chargers,2020

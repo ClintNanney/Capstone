@@ -1,29 +1,29 @@
-Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Age,Pos,Salary
-Salvon Ahmed,,,,,,,,,,,O,,,22,RB,466471
-Vince Biegel,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Lynn Bowden Jr.,,,,,,,,C19,C19,,,,,23,WR,
-Matt Breida,,,,,,,,O,Q,,,C19,C19,25,RB,3259000
-Nate Brooks,IR,IR,,,,,,,,,,,,,,
-Jesse Davis,,,,,,,,,,,C19,,,29,T,3855000
-Clayton Fejedelem,D,D,D,,,,,,,,,,,27,FS,1500000
-Kavon Frazier,,,,D,,,,,,,,,,26,FS,910000
-Myles Gaskin,,,,,,,,IR,IR,IR,IR,IR,C19,,,
-Davon Godchaux,,,,,,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Jakeem Grant,,,,,Q,,,,,,Q,,,28,WR,3780000
-Allen Hurns,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Austin Jackson,,,,,IR,IR,IR,IR,,,,,,21,OL,560588
-Byron Jones,,,O,D,,,,,,,,,,28,CB,11000000
-Solomon Kindley,,,,Q,,,,,,Q,O,,,23,OL,610000
-Shaq Lawson,,,,,O,Q,,,,,,,,26,DE,6400000
-Jonathan Ledbetter,,,,,IR,,,,,,,,,,,
-DeVante Parker,,Q,,,,,,,,,,,,27,WR,1300000
-Jamal Perry,,,,,,,O,Q,Q,,,,C19,,,
-Elandon Roberts,,O,,,,,,,,,,,,26,ILB,1000000
-Adam Shaheen,,,,,,,Q,,,,,,,26,TE,1270982
-Ray Smith,IR,IR,IR,IR,IR,IR,IR,,,,,,,,,
-Durham Smythe,,,,,O,Q,,,Q,,,,,25,TE,750000
-Jason Strowbridge,,,O,,,,,,,,,,,24,DL,610000
-Tua Tagovailoa,,,,Q,,,,,,,Q,,,22,QB,610000
-Kyle Van Noy,,,,,,Q,,,C19,Q,,,,29,OLB,3000000
-Christian Wilkins,,,,,,,,,C19,C19,C19,,,25,DL,1196777
-Albert Wilson,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
+Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Age,Pos,Salary,Team,Year
+Salvon Ahmed,,,,,,,,,,,O,,,22,RB,466471,Dolphins,2020
+Vince Biegel,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Dolphins,2020
+Lynn Bowden Jr.,,,,,,,,C19,C19,,,,,23,WR,,Dolphins,2020
+Matt Breida,,,,,,,,O,Q,,,C19,C19,25,RB,3259000,Dolphins,2020
+Nate Brooks,IR,IR,,,,,,,,,,,,,,,Dolphins,2020
+Jesse Davis,,,,,,,,,,,C19,,,29,T,3855000,Dolphins,2020
+Clayton Fejedelem,D,D,D,,,,,,,,,,,27,FS,1500000,Dolphins,2020
+Kavon Frazier,,,,D,,,,,,,,,,26,FS,910000,Dolphins,2020
+Myles Gaskin,,,,,,,,IR,IR,IR,IR,IR,C19,,,,Dolphins,2020
+Davon Godchaux,,,,,,IR,IR,IR,IR,IR,IR,IR,IR,,,,Dolphins,2020
+Jakeem Grant,,,,,Q,,,,,,Q,,,28,WR,3780000,Dolphins,2020
+Allen Hurns,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Dolphins,2020
+Austin Jackson,,,,,IR,IR,IR,IR,,,,,,21,OL,560588,Dolphins,2020
+Byron Jones,,,O,D,,,,,,,,,,28,CB,11000000,Dolphins,2020
+Solomon Kindley,,,,Q,,,,,,Q,O,,,23,OL,610000,Dolphins,2020
+Shaq Lawson,,,,,O,Q,,,,,,,,26,DE,6400000,Dolphins,2020
+Jonathan Ledbetter,,,,,IR,,,,,,,,,,,,Dolphins,2020
+DeVante Parker,,Q,,,,,,,,,,,,27,WR,1300000,Dolphins,2020
+Jamal Perry,,,,,,,O,Q,Q,,,,C19,,,,Dolphins,2020
+Elandon Roberts,,O,,,,,,,,,,,,26,ILB,1000000,Dolphins,2020
+Adam Shaheen,,,,,,,Q,,,,,,,26,TE,1270982,Dolphins,2020
+Ray Smith,IR,IR,IR,IR,IR,IR,IR,,,,,,,,,,Dolphins,2020
+Durham Smythe,,,,,O,Q,,,Q,,,,,25,TE,750000,Dolphins,2020
+Jason Strowbridge,,,O,,,,,,,,,,,24,DL,610000,Dolphins,2020
+Tua Tagovailoa,,,,Q,,,,,,,Q,,,22,QB,610000,Dolphins,2020
+Kyle Van Noy,,,,,,Q,,,C19,Q,,,,29,OLB,3000000,Dolphins,2020
+Christian Wilkins,,,,,,,,,C19,C19,C19,,,25,DL,1196777,Dolphins,2020
+Albert Wilson,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Dolphins,2020

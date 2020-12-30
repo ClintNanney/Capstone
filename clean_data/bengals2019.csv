@@ -1,36 +1,36 @@
-Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Age,Pos,Salary
-Rodney Anderson,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Geno Atkins,,,,,,,,,,Q,,,,,,,,,
-Cethan Carter,,,,,,,,,,,,O,,,,,,,
-Darqueze Dennard,PUP,PUP,PUP,PUP,PUP,PUP,PUP,O,,,,,,Q,,,28,cb,1500000
-Jeff Driskel,IR,IR,,,,,,,,,,,,,,,,,
-O'Shea Dugas,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Carlos Dunlap,,,,,,O,D,,,,,,,,,,30,LDE,3100000
-Clayton Fejedelem,,Q,,,,,,,,,,,,,,,,,
-Ryan Glasgow,,,O,O,,O,,,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Cordy Glenn,O,O,O,O,O,O,O,O,Q,,,,,,,,30,lt,7250000
-A.J. Green,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,IR,,,
-Bobby Hart,,,,,,,,,,Q,,,,,,,25,RT,900000
-Sam Hubbard,,,,,,,,,,,,,O,,,,24,LOLB,640000
-William Jackson III,,,,,,,O,,,,,,,,,IR,27,RCB,1773497
-Michael Jordan,,,Q,,,,,,,,,,,,,,21,LG,495000
-Dre Kirkpatrick,,,,,,,O,O,O,O,IR,IR,IR,IR,IR,IR,30,lcb,9150000
-Carl Lawson,,,D,D,,,O,O,,,,,,,,,,,
-John Miller,,,,,,,O,Q,,,,,,,O,,26,G,900000
-Joe Mixon,,Q,,,,,,,,,,,,,,,23,RB,960470
-Stanley Morgan Jr.,,,,,,,,,,,Q,,,,,D,,,
-Darius Phillips,,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,,,,
-Alex Redmond,,,,,,,,,O,O,,O,IR,IR,IR,IR,,,
-John Ross,,,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,24,WR,2020988
-Drew Sample,,,,,,,,,,O,O,O,IR,IR,IR,IR,,,
-Niles Scott,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Andre Smith,,,Q,,,O,O,Q,,,,,,,,,32,LT,1030000
-Auden Tate,D,,,,,,,,,,Q,,,IR,IR,IR,22,WR,570000
-Nick Vigil,,,,,,,,,,,,Q,,,,,26,LILB,2000000
-B.W. Webb,,,O,,,,,,,,,,,,,,29,CB,1000000
-Jonah Williams,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,,,
-Shawn Williams,,,,,,Q,,,,,,,,,,,28,SS,3500000
-Trayveon Williams,O,Q,,,,,,,,,,,,,,,,,
-Brandon Wilson,,,,,,,,,,,,,IR,IR,IR,IR,,,
-Renell Wren,,,,,,,,,,,,,,IR,IR,IR,,,
-Kerry Wynn,,,O,O,O,O,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
+Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Age,Pos,Salary,Team,Year
+Rodney Anderson,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Bengals,2019
+Geno Atkins,,,,,,,,,,Q,,,,,,,,,,Bengals,2019
+Cethan Carter,,,,,,,,,,,,O,,,,,,,,Bengals,2019
+Darqueze Dennard,PUP,PUP,PUP,PUP,PUP,PUP,PUP,O,,,,,,Q,,,28,cb,1500000,Bengals,2019
+Jeff Driskel,IR,IR,,,,,,,,,,,,,,,,,,Bengals,2019
+O'Shea Dugas,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Bengals,2019
+Carlos Dunlap,,,,,,O,D,,,,,,,,,,30,LDE,3100000,Bengals,2019
+Clayton Fejedelem,,Q,,,,,,,,,,,,,,,,,,Bengals,2019
+Ryan Glasgow,,,O,O,,O,,,IR,IR,IR,IR,IR,IR,IR,IR,,,,Bengals,2019
+Cordy Glenn,O,O,O,O,O,O,O,O,Q,,,,,,,,30,lt,7250000,Bengals,2019
+A.J. Green,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,IR,,,,Bengals,2019
+Bobby Hart,,,,,,,,,,Q,,,,,,,25,RT,900000,Bengals,2019
+Sam Hubbard,,,,,,,,,,,,,O,,,,24,LOLB,640000,Bengals,2019
+William Jackson III,,,,,,,O,,,,,,,,,IR,27,RCB,1773497,Bengals,2019
+Michael Jordan,,,Q,,,,,,,,,,,,,,21,LG,495000,Bengals,2019
+Dre Kirkpatrick,,,,,,,O,O,O,O,IR,IR,IR,IR,IR,IR,30,lcb,9150000,Bengals,2019
+Carl Lawson,,,D,D,,,O,O,,,,,,,,,,,,Bengals,2019
+John Miller,,,,,,,O,Q,,,,,,,O,,26,G,900000,Bengals,2019
+Joe Mixon,,Q,,,,,,,,,,,,,,,23,RB,960470,Bengals,2019
+Stanley Morgan Jr.,,,,,,,,,,,Q,,,,,D,,,,Bengals,2019
+Darius Phillips,,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,,,,,Bengals,2019
+Alex Redmond,,,,,,,,,O,O,,O,IR,IR,IR,IR,,,,Bengals,2019
+John Ross,,,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,24,WR,2020988,Bengals,2019
+Drew Sample,,,,,,,,,,O,O,O,IR,IR,IR,IR,,,,Bengals,2019
+Niles Scott,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Bengals,2019
+Andre Smith,,,Q,,,O,O,Q,,,,,,,,,32,LT,1030000,Bengals,2019
+Auden Tate,D,,,,,,,,,,Q,,,IR,IR,IR,22,WR,570000,Bengals,2019
+Nick Vigil,,,,,,,,,,,,Q,,,,,26,LILB,2000000,Bengals,2019
+B.W. Webb,,,O,,,,,,,,,,,,,,29,CB,1000000,Bengals,2019
+Jonah Williams,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,,,,Bengals,2019
+Shawn Williams,,,,,,Q,,,,,,,,,,,28,SS,3500000,Bengals,2019
+Trayveon Williams,O,Q,,,,,,,,,,,,,,,,,,Bengals,2019
+Brandon Wilson,,,,,,,,,,,,,IR,IR,IR,IR,,,,Bengals,2019
+Renell Wren,,,,,,,,,,,,,,IR,IR,IR,,,,Bengals,2019
+Kerry Wynn,,,O,O,O,O,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Bengals,2019

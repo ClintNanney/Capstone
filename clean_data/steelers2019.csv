@@ -1,27 +1,27 @@
-Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Age,Pos,Salary
-Mark Barron,,,,,,O,Q,,,,,,,,,,30,IL,1000000
-Artie Burns,,,,,,,,,,,D,Q,,,,,,,
-Anthony Chickillo,,,O,O,O,,,,,Q,,,,,,,,,
-James Conner,,,,,,,,D,O,,O,D,O,Q,,O,24,RB,668000
-Sean Davis,D,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Jayrone Elliott,,,,Q,,,,,,,,,,,,,,,
-Ramon Foster,,,,,,,,O,O,,,,,,,,33,G,1100000
-Ulysees Gilbert,,,,,,,Q,,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Xavier Grimble,,,,IR,IR,,,,,,,,,,,,,,
-Joe Haden,,Q,,,,,,,,Q,,,,,,,,,
-Lavon Hooks,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Vance McDonald,,,,D,Q,,,,,,,,,O,,,29,TE,4200000
-Steven Nelson,,,,,,Q,,,,,,,,,,,26,RCB,1500000
-Roosevelt Nix,,O,O,O,O,O,,Q,O,O,IR,IR,IR,IR,IR,IR,,,
-Maurkice Pouncey,,Q,,,,,,,,,,,,,,O,,,
-Ben Roethlisberger,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Mason Rudolph,,,,,,O,,,,,,,,,,IR,24,QB,658267
-Jaylen Samuels,,,,,,O,Q,,,,,,,,,,,,
-Ryan Shazier,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,,,
-JuJu Smith-Schuster,,,,,Q,,,,Q,,O,O,O,O,,,23,WR,846434
-Benny Snell Jr.,,,,,,,,O,O,O,,,,,,,,,
-Ryan Switzer,,,,,,,,,,O,IR,IR,IR,IR,IR,IR,,,
-Stephon Tuitt,,,,,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,26,RDE,6000000
-Leterrius Walton,,,,,,,,,,,IR,IR,IR,IR,IR,IR,,,
-James Washington,,,,,,O,,,,,,,,,,,23,WR,684607
-Vince Williams,,,O,O,Q,,,,,,,,,,,,30,RILB,805000
+Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Age,Pos,Salary,Team,Year
+Mark Barron,,,,,,O,Q,,,,,,,,,,30,IL,1000000,Steelers,2019
+Artie Burns,,,,,,,,,,,D,Q,,,,,,,,Steelers,2019
+Anthony Chickillo,,,O,O,O,,,,,Q,,,,,,,,,,Steelers,2019
+James Conner,,,,,,,,D,O,,O,D,O,Q,,O,24,RB,668000,Steelers,2019
+Sean Davis,D,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+Jayrone Elliott,,,,Q,,,,,,,,,,,,,,,,Steelers,2019
+Ramon Foster,,,,,,,,O,O,,,,,,,,33,G,1100000,Steelers,2019
+Ulysees Gilbert,,,,,,,Q,,IR,IR,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+Xavier Grimble,,,,IR,IR,,,,,,,,,,,,,,,Steelers,2019
+Joe Haden,,Q,,,,,,,,Q,,,,,,,,,,Steelers,2019
+Lavon Hooks,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+Vance McDonald,,,,D,Q,,,,,,,,,O,,,29,TE,4200000,Steelers,2019
+Steven Nelson,,,,,,Q,,,,,,,,,,,26,RCB,1500000,Steelers,2019
+Roosevelt Nix,,O,O,O,O,O,,Q,O,O,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+Maurkice Pouncey,,Q,,,,,,,,,,,,,,O,,,,Steelers,2019
+Ben Roethlisberger,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+Mason Rudolph,,,,,,O,,,,,,,,,,IR,24,QB,658267,Steelers,2019
+Jaylen Samuels,,,,,,O,Q,,,,,,,,,,,,,Steelers,2019
+Ryan Shazier,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,,,,Steelers,2019
+JuJu Smith-Schuster,,,,,Q,,,,Q,,O,O,O,O,,,23,WR,846434,Steelers,2019
+Benny Snell Jr.,,,,,,,,O,O,O,,,,,,,,,,Steelers,2019
+Ryan Switzer,,,,,,,,,,O,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+Stephon Tuitt,,,,,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,26,RDE,6000000,Steelers,2019
+Leterrius Walton,,,,,,,,,,,IR,IR,IR,IR,IR,IR,,,,Steelers,2019
+James Washington,,,,,,O,,,,,,,,,,,23,WR,684607,Steelers,2019
+Vince Williams,,,O,O,Q,,,,,,,,,,,,30,RILB,805000,Steelers,2019

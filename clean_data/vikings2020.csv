@@ -1,30 +1,30 @@
-Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Age,Pos,Salary
-Anthony Barr,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Mike Boone,,,Q,,,,,,,,,,,25,RB,750000
-Kris Boyd,,,Q,D,Q,O,,,,,,,,,,
-Jordan Brailford,,,,,,,,,,,O,,,25,EDGE,430588
-Dan Chisena,,,,,,,O,,,,,,,23,WR,610000
-Ezra Cleveland,,,,,,,,,,O,O,,,22,OL,610000
-Dalvin Cook,,,,,,O,Q,,,,,,,25,RB,825000
-Austin Cutting,,,,,,,,,C19,,,,,,,
-Cameron Dantzler,,O,O,,,,C19,O,Q,Q,,,,22,CB,610000
-Todd Davis,,,,,,,C19,C19,C19,,,,,28,LB,926471
-Myles Dorn,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Troy Dye,,,IR,IR,IR,IR,IR,,,,,,,24,LB,548235
-Pat Elflein,,IR,IR,IR,IR,IR,IR,IR,IR,,,,,,,
-Mark Fields II,,,,,,,,O,IR,IR,IR,IR,IR,,,
-Ben Gedeon,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,,,,,,,
-C.J. Ham,,,,,,,,,,C19,,,,27,RB,900000
-Harrison Hand,,,,,,,,Q,,,,,,22,CB,610000
-Holton Hill,,,,,Q,D,O,O,IR,IR,IR,IR,,,,
-Mike Hughes,,,O,O,,,IR,IR,IR,IR,IR,IR,IR,,,
-Danielle Hunter,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-George Iloka,,,,,,,IR,IR,IR,IR,IR,IR,IR,,,
-K.J. Osborn,,,,,O,O,,,,,,,,23,WR,610000
-Michael Pierce,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Quentin Poling,//,,,,,,,,,,,,,,,
-Dru Samia,,,,,,O,,,,C19,C19,,,23,OL,675000
-Cameron Smith,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
-Irv Smith Jr.,,,,,,,,,O,Q,D,,,22,TE,758566
-Adam Thielen,,,,,,,,,,,C19,,,30,WR,4800000
-Kenny Willekes,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,
+Player,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Age,Pos,Salary,Team,Year
+Anthony Barr,,,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+Mike Boone,,,Q,,,,,,,,,,,25,RB,750000,Vikings,2020
+Kris Boyd,,,Q,D,Q,O,,,,,,,,,,,Vikings,2020
+Jordan Brailford,,,,,,,,,,,O,,,25,EDGE,430588,Vikings,2020
+Dan Chisena,,,,,,,O,,,,,,,23,WR,610000,Vikings,2020
+Ezra Cleveland,,,,,,,,,,O,O,,,22,OL,610000,Vikings,2020
+Dalvin Cook,,,,,,O,Q,,,,,,,25,RB,825000,Vikings,2020
+Austin Cutting,,,,,,,,,C19,,,,,,,,Vikings,2020
+Cameron Dantzler,,O,O,,,,C19,O,Q,Q,,,,22,CB,610000,Vikings,2020
+Todd Davis,,,,,,,C19,C19,C19,,,,,28,LB,926471,Vikings,2020
+Myles Dorn,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+Troy Dye,,,IR,IR,IR,IR,IR,,,,,,,24,LB,548235,Vikings,2020
+Pat Elflein,,IR,IR,IR,IR,IR,IR,IR,IR,,,,,,,,Vikings,2020
+Mark Fields II,,,,,,,,O,IR,IR,IR,IR,IR,,,,Vikings,2020
+Ben Gedeon,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,PUP,,,,,,,,Vikings,2020
+C.J. Ham,,,,,,,,,,C19,,,,27,RB,900000,Vikings,2020
+Harrison Hand,,,,,,,,Q,,,,,,22,CB,610000,Vikings,2020
+Holton Hill,,,,,Q,D,O,O,IR,IR,IR,IR,,,,,Vikings,2020
+Mike Hughes,,,O,O,,,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+Danielle Hunter,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+George Iloka,,,,,,,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+K.J. Osborn,,,,,O,O,,,,,,,,23,WR,610000,Vikings,2020
+Michael Pierce,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+Quentin Poling,//,,,,,,,,,,,,,,,,Vikings,2020
+Dru Samia,,,,,,O,,,,C19,C19,,,23,OL,675000,Vikings,2020
+Cameron Smith,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
+Irv Smith Jr.,,,,,,,,,O,Q,D,,,22,TE,758566,Vikings,2020
+Adam Thielen,,,,,,,,,,,C19,,,30,WR,4800000,Vikings,2020
+Kenny Willekes,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,IR,,,,Vikings,2020
