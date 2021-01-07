@@ -23,4 +23,9 @@ Power BI - for analysis and visualizations
 2. https://www.si.com/nfl/2016/08/22/nfl-team-injury-report-changes
 3. https://www.sandiegouniontribune.com/sports/profootballdoc/sd-sp-pfd-questionable-doubtful-nfl-injury-report-0906-htmlstory.html
 
+#### Conclusion
+
+1. Despite the absence of a preseason in 2020, injuries were on the lower end of the spectrum compared to previous seasons. Finishing 4th of the 6 seasons.
+2. Compared to the past 5 seasons, injuries were down over the first 4 weeks of the season.
+3. Offensive Lineman, Cornerbacks and Linebackers are the most prone to missing games due to injury.
 
